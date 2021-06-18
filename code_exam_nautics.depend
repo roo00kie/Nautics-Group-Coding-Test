@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1624046245 source:c:\c_test\code_exam_nautics\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dataHandling.h"
+	"fileIO.h"
+
+1624035857 source:c:\c_test\code_exam_nautics\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	"fileIO.h"
+
+1624035806 c:\c_test\code_exam_nautics\fileio.h
+	<stdint.h>
+
+1624042217 c:\c_test\code_exam_nautics\datahandling.h
+	<stdint.h>
+
+1624043640 source:c:\c_test\code_exam_nautics\datahandling.c
+	"dataHandling.h"
+	<stdio.h>
+	<stdlib.h>
+
